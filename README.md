@@ -45,7 +45,7 @@ The final output of the project is shown below
 
 ## Round - 3
 
-The task is to create a extract text from the resume and perform text embedding of the text with the use of CohereAI embedding & llama index after that store it in vector database and later retrieve it to produce output for the given query, this is done by reffering the llama-index docs - https://docs.llamaindex.ai/en/stable/examples/embeddings/cohereai/
+The task is to extract text from the resume document and perform text embedding of the text with the use of CohereAI embedding & llama index after that store it in vector database and later retrieve it to produce output for the given query, this is done by reffering the llama-index docs - https://docs.llamaindex.ai/en/stable/examples/embeddings/cohereai/
 
 But when using qdrant vector database to retrieve the embedded text and on passing the index to query_engine to get the query response. It got failed due to the need
 of OpenAI. The docs referred is - https://docs.llamaindex.ai/en/stable/examples/vector_stores/QdrantIndexDemo/
