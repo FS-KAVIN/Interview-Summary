@@ -9,7 +9,7 @@ The questions asked in this round are as follows:
 - Explain oops concepts in python
 - Explain Exception Handling in python
 - Create a program to check if the given string is palindrome using class
-- Create a python program with Student class with data members such as name, age and DOB
+- Create a python program with class Students which consists of data members such as name, age and DOB and print the same from main
 
 ## Round - 2
 
